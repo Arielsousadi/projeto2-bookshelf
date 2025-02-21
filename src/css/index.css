@@ -1,0 +1,85 @@
+.center{
+    text-align: center;
+}
+header{
+    text-align: center;
+    align-items: center;
+    padding: 15px 50px;
+    background-color: #fcfcfc;
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: #fcfcfc;
+}
+.leia{
+    text-align: center;
+}
+.registro{
+    padding: 10px 20px; /* Tamanho do botão */
+    background-color: #000000; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    border: none; /* Remove a borda padrão */
+    border-radius: 10px; /* Bordas arredondadas */
+    cursor: pointer; /* Aparece como um botão clicável */
+    font-size: 16px;
+}
+
+.container {
+    display: grid;
+    grid-auto-flow: column; /* Organiza em linha automaticamente */
+    gap: 10px;
+    justify-content: center;
+    
+}
+.botao{
+    padding: 10px 20px; /* Tamanho do botão */
+    background-color: #007bff; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    border: none; /* Remove a borda padrão */
+    border-radius: 10px; /* Bordas arredondadas */
+    cursor: pointer; /* Aparece como um botão clicável */
+    font-size: 16px;
+}
+.container1 {
+    display: grid;
+    grid-auto-flow: column; /* Organiza em linha automaticamente */
+    gap: 10px;
+    justify-content: center;
+}
+
+footer {
+    background-color: #333; /* Cor de fundo escura */
+    color: white; /* Cor do texto branca */
+    text-align: center; /* Centraliza o texto */
+    padding: 10px 0; /* Pouco espaço acima e abaixo */
+    font-size: 12px; /* Tamanho da fonte pequeno */
+}
+
+footer p {
+    margin: 0; /* Remove margem extra */
+}
+.botaop{padding: 10px 20px; /* Tamanho do botão */
+    background-color: #000000; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    border: none; /* Remove a borda padrão */
+    border-radius: 10px; /* Bordas arredondadas */
+    cursor: pointer; /* Aparece como um botão clicável */
+    font-size: 16px;}
+
+.container1{
+    padding: 6px 14px; /* Tamanho do botão */
+    background-color: #000000; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    border: none; /* Remove a borda padrão */
+    border-radius: 10px; /* Bordas arredondadas */
+    cursor: pointer; /* Aparece como um botão clicável */
+    font-size: 16px;}
+
+.registro1{
+    padding: 10px 20px; /* Tamanho do botão */
+    background-color: #000000; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    border: none; /* Remove a borda padrão */
+    border-radius: 10px; /* Bordas arredondadas */
+    cursor: pointer; /* Aparece como um botão clicável */
+    font-size: 16px; }
